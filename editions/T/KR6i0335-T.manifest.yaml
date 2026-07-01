@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0335/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0335/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說楞伽經禪門悉談章
+  identifiers:
+    krp: KR6i0335
+    cbeta: T85n2779
+    cbeta_old_id: T85n2779
+    authorityid: CA0004799
+    json_key: T2779
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2779.xml
+    old_id: T85n2779
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0335_000-T.yaml, hash: 'sha256:04e61974cbb09d86a6471225d0c9023ff6c98413e670bec4112f328d4ae49162'}
+  - {seq: 1, filename: KR6i0335_001-T.yaml, hash: 'sha256:e2217e0dd95b100a3c0abb187932a62e38da0f7bbdd337e1ff17052920384745'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0335_000-T.markers.yaml, hash: 'sha256:70fa65d5fa880898e655f2ddb4609190b24fe929f4ebc34e154e1a8c32daffed'}
+  - {seq: 1, role: markers, filename: assets/KR6i0335_001-T.markers.yaml, hash: 'sha256:497cd6875a2302acda7dd936852e00c3e524030ffc3e6f18948a62cf01fb7b5c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0335_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 975
+  label: 佛說楞伽經禪門悉談章并序
+  type: juan
+  level: 1
+hash: sha256:c77d04a90717c4b00af07d2c09555ae2820431803dbf25dd24cef427a748a994

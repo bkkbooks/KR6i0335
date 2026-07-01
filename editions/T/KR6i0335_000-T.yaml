@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0335/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說楞伽經禪門悉談章
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2779.xml
+    old_id: T85n2779
+hash: sha256:04e61974cbb09d86a6471225d0c9023ff6c98413e670bec4112f328d4ae49162

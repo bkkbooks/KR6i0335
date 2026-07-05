@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0335_000.yaml, hash: 'sha256:04e61974cbb09d86a6471225d0c9023ff6c98413e670bec4112f328d4ae49162'}
-  - {seq: 1, filename: KR6i0335_001.yaml, hash: 'sha256:22844d74314a10bc459dfa2dbf6c7df094311386bb98c324652c8a146d247c8a'}
+  - {seq: 1, filename: KR6i0335_001.yaml, hash: 'sha256:e2217e0dd95b100a3c0abb187932a62e38da0f7bbdd337e1ff17052920384745'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0335_001.markers.yaml, hash: 'sha256:50f803b7b32c9c12951baa83e7bd5b0eef2474004128878fb3a7e34f262c388f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0335_000.markers.yaml, hash: 'sha256:882fb13649742208e2a1ec4e84a1ac8905a5f24cebddda43128b8bf04dc98175'}
+  - {seq: 1, role: markers, filename: assets/KR6i0335_001.markers.yaml, hash: 'sha256:be43b6305faee614869b3fa93a05db83cb1a5b76895f4913c34937140eecfaae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說楞伽經禪門悉談章并序
   type: juan
   level: 1
-hash: sha256:ff2350232ade0485ab710a64f7c5a969aedc14706de284aaea4de32611caf0f3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:70ea26ab3f631582aa5cab080720d2820977d99d5c88d911debac94b65cabd06

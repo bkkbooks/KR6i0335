@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0335/v1
 canonical_location: https://kanripo.org/bkk/KR6i0335/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說楞伽經禪門悉談章
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0335_000.yaml, hash: 'sha256:04e61974cbb09d86a6471225d0c9023ff6c98413e670bec4112f328d4ae49162'}
-  - {seq: 1, filename: KR6i0335_001.yaml, hash: 'sha256:e2217e0dd95b100a3c0abb187932a62e38da0f7bbdd337e1ff17052920384745'}
+  - {seq: 1, filename: KR6i0335_001.yaml, hash: 'sha256:a05c61f008fca42100399935c45ab23a797dbb624e3947b56e3b156b4d0077ad'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0335_000.markers.yaml, hash: 'sha256:882fb13649742208e2a1ec4e84a1ac8905a5f24cebddda43128b8bf04dc98175'}
-  - {seq: 1, role: markers, filename: assets/KR6i0335_001.markers.yaml, hash: 'sha256:be43b6305faee614869b3fa93a05db83cb1a5b76895f4913c34937140eecfaae'}
+  - {seq: 1, role: markers, filename: assets/KR6i0335_001.markers.yaml, hash: 'sha256:acae45854e18ec83d62a625c3fafc3a0b48111276853079013db0199c48c475a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說楞伽經禪門悉談章并序
   type: juan
   level: 1
-hash: sha256:70ea26ab3f631582aa5cab080720d2820977d99d5c88d911debac94b65cabd06
+hash: sha256:afb1714923b16047a510988e09b220adaae4fc93c961191f34cc587e9c572d88
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
